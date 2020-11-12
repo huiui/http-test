@@ -5,11 +5,11 @@ import tcb from "@cloudbase/js-sdk";
 
 function App() {
   let url =
-    "https://test-cloudbase-4g2syy34ec7a6083.service.tcloudbase.com/hello";
+    "https://test-cloudbase-4g2syy34ec7a6083.service.tcloudbase.com/login";
 
   const data = {
-    "a": 3,
-    "b": 4,
+    username: "huiui1",
+    password: "123456",
   };
 
 
